@@ -1,4 +1,4 @@
-# sispak
+# Apa ini?
 Aplikasi Node JS untuk menghitung WP dan SAW.
 
 ## Cara Menjalankan
